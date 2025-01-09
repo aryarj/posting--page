@@ -1,0 +1,14 @@
+body{
+    padding-top: 25px;
+}
+div{
+    background-color: beige;
+}
+main{
+    padding: 25px;
+}
+footer{
+    padding-bottom: 10px;
+    background-color: beige;
+    font-size: large;
+}
